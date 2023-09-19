@@ -4,4 +4,4 @@ console.log(
   "Aprendiendo a usar git en 2023 con \nun video de youtube que dura 5 horas"
 );
 
-console.log("Prueba de comandos");
+console.log("Cambie este mensaje");
