@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/d3-array": "^3.0.7",
+    "d3-array": "^3.2.4"
+  }
+}

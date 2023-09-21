@@ -5,3 +5,17 @@ console.log(
 );
 
 console.log("Cambie este mensaje");
+
+
+
+//Recordando lo aprendido de la clase de POO
+import { Prueba } from "./prueba";
+
+//importe la clase d3-array
+import * as arreglo from "d3-array"
+
+const hoja = new Prueba(9);
+
+hoja.comprobarNota();
+
+Prueba.comprobarRespuestas();
