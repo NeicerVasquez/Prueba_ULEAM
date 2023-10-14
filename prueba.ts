@@ -50,5 +50,5 @@ const prueba = new Prueba(10, alumno);
 
 console.log(prueba.imprimir());
 
-let octal: number = 0o123;
-console.log(octal);
+let binario: number = 0b10101;
+console.log(binario);
