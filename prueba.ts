@@ -49,3 +49,6 @@ const alumno = new Alumno("Neicer Ibrahin", "Vásquez Bermúdez");
 const prueba = new Prueba(10, alumno);
 
 console.log(prueba.imprimir());
+
+let hexadecimal: number = 0x123456;
+console.log(hexadecimal);
