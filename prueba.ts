@@ -56,3 +56,7 @@ console.log(hexadecimal);
 
 let binario: number = 0b10101;
 console.log(binario);
+
+let octal: number = 0o245;
+console.log(octal);
+
