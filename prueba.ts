@@ -50,5 +50,5 @@ const prueba = new Prueba(10, alumno);
 
 console.log(prueba.imprimir());
 
-let hexadecimal: number = 0x123456;
-console.log(hexadecimal);
+let octal: number = 0o123;
+console.log(octal);
