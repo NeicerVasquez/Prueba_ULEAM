@@ -50,5 +50,9 @@ const prueba = new Prueba(10, alumno);
 
 console.log(prueba.imprimir());
 
+let hexadecimal: number = 0x3456a;
+console.log(hexadecimal);
+
+
 let binario: number = 0b10101;
 console.log(binario);
