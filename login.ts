@@ -7,3 +7,5 @@ for (let i:number=0; i<=6; i++){
 arregloNumeros.forEach(element => {
     console.log(element)
 });
+
+console.log('Comenzando a entender Github🤍');
